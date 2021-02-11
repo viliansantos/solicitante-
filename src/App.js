@@ -1,15 +1,14 @@
-
+import React from 'react';
 import './App.css';
 
-function App() {
+import Inicial from './pages/inicial';
+
+export default function App() {
   return (
     
-        <a>
-          Começando a aplicação
-        </a>
+      <Inicial></Inicial>
 
-  
   );
 }
 
-export default App;
+
