@@ -5,7 +5,7 @@ function App() {
   return (
     
         <a>
-          Learn React
+          Começando a aplicação
         </a>
 
   
