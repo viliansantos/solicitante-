@@ -4,7 +4,9 @@ export default function NovaSolicitacao(){
 
     return(
 
-        <a>Tela de nova solicitação</a>
-
+        <div className='header'>
+            <a>SOLICITAÇÃO DOCUMENTAL</a>   
+        </div>
+      
     );
 }
